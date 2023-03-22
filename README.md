@@ -1,5 +1,3 @@
-[![Netlify Status](https://app.netlify.com/teams/kimyeoungchan/overview?_ga=2.88209563.1293689336.1679475142-180231836.1679475142)(https://app.netlify.com/sites/merry-torrone-a86a16/overview)
-
 # 내 안에 숨어있는 직업캐 찾기!
 <a href="https://merry-torrone-a86a16.netlify.app/" target="_blank">데모 사이트 보기</a>
 
@@ -47,9 +45,6 @@ body {
 
 The Open Graph protocol & Twitter Cards  
 웹페이지가 소셜 미디어(페이스북, 트위터 등)로 공유될 때 우선적으로 활용되는 정보를 지정합니다.
-
-![Slack Open Graph example](./screenshot-slack.jpg)  
-![KakaoTalk Open Graph example](./screenshot-kakao.jpg)
 
 ```html
 <!-- Open Graph -->
